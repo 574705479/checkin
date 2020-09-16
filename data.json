@@ -2,17 +2,13 @@
     "wps_checkin": [
         {
             "name": "user1",
-            "sid": "xxxxxxxxxxxJIlM5NOPYbfEoB-ZpB0pmOIU014f128070007b6"
-        },
-        {
-            "name": "user2",
-            "sid": "xxxxxxxxPrOuK5uupNy4anCRpX9B5V-k00a2e1a9c07b7d25"
+            "sid": "V02SIwkWhDrCRKBp2PEetWYlHF82V2s00af11eb5001a60ee2f"
         }
     ],
     "wps_invite": [
         {
             "name": "user1",
-            "invite_userid": 191641526,
+            "invite_userid": 442560047,
             "sid": [ ]
         }
     ],
